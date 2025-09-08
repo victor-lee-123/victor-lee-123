@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a Junior year Computer Science student!
+
 - 💻 Programming Languages: C, C++
 - 🔨 Developer Tools: Git, GitHub, Visual Studio Code, Visual Studio.
 - 💾 Frameworks: OpenGL, GLSL Shaders, ImGUI.
