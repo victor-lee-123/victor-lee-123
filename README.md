@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 💻 Programming Languages: C, C++
+- 🔨 Developer Tools: Git, GitHub, Visual Studio Code, Visual Studio.
+- 💾 Frameworks: OpenGL, GLSL Shaders, ImGUI.
+- 📫 How to reach me: veekterlee@gmail.com
+
 <!--
 **victor-lee-123/victor-lee-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
