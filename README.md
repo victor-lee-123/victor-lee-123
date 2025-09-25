@@ -6,6 +6,11 @@ I am a Junior year Computer Science student!
 - 🔨 Developer Tools: Git, GitHub, Visual Studio Code, Visual Studio.
 - 💾 Frameworks: OpenGL, GLSL Shaders, ImGUI.
 - 📫 How to reach me: veekterlee@gmail.com
+- 🖱️ CS Fundamentals: Artificial Intelligence, Algorithm Analysis, Calculus & Analytic Geometry,
+  Computer Networks, Data Structure & Algorithms, Discrete Mathematics, Low Level Programming,
+  Machine Learning, Modern C++ Design Patterns, Operating Systems, Spatial Data Structures,
+  Object-Oriented Programming.
+- 📊 Additional Tools: Canva, Microsoft Office, Power BI.
 
 <!--
 **victor-lee-123/victor-lee-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
