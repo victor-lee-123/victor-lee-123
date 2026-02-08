@@ -3,7 +3,7 @@
 I am a Junior year Computer Science student!
 
 - 💻 Programming Languages: C, C++, Python
-- 🔨 Developer Tools: Git, GitHub, Visual Studio Code, Visual Studio.
+- 🔨 Developer Tools: GitHub, Visual Studio, Visual Studio Code, Jupyter Notebook, Android Studio.
 - 💾 Frameworks: OpenGL, GLSL Shaders, ImGUI.
 - 📫 How to reach me: veekterlee@gmail.com
 - 🖱️ CS Fundamentals: Artificial Intelligence, Algorithm Analysis, Calculus & Analytic Geometry,
