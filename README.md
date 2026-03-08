@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I am a Junior year Computer Science student!
+I am a Year 3 Computer Science student!
 
-- 💻 Programming Languages: C, C++, Python
+- 💻 Programming Languages: C, C++, Python, Kotlin
 - 🔨 Developer Tools: GitHub, Visual Studio, Visual Studio Code, Jupyter Notebook, Android Studio.
 - 💾 Frameworks: OpenGL, GLSL Shaders, ImGUI.
 - 📫 How to reach me: veekterlee@gmail.com
@@ -10,7 +10,7 @@ I am a Junior year Computer Science student!
   Computer Networks, Data Structure & Algorithms, Discrete Mathematics, Low Level Programming,
   Machine Learning, Modern C++ Design Patterns, Operating Systems, Spatial Data Structures,
   Object-Oriented Programming.
-- 📊 Additional Tools: Canva, Microsoft Office - Word, Excel, PowerPoint and Power BI.
+- 📊 Additional Tools: Canva, Figma, Microsoft Office - Word, Excel, PowerPoint and Power BI.
 
 <!--
 **victor-lee-123/victor-lee-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
