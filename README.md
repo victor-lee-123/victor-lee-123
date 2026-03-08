@@ -6,9 +6,9 @@ I am a Year 3 Computer Science student!
 - 🔨 Developer Tools: GitHub, Visual Studio, Visual Studio Code, Jupyter Notebook, Android Studio.
 - 💾 Frameworks: OpenGL, GLSL Shaders, ImGUI.
 - 📫 How to reach me: veekterlee@gmail.com
-- 🖱️ CS Fundamentals: Artificial Intelligence, Algorithm Analysis, Calculus & Analytic Geometry,
-  Computer Networks, Data Structure & Algorithms, Discrete Mathematics, Low Level Programming,
-  Machine Learning, Modern C++ Design Patterns, Operating Systems, Spatial Data Structures,
+- 🖱️ CS Fundamentals: Artificial Intelligence, Algorithm Analysis, Mobile & Cloud Computing (Android),
+  Computer Networks, Data Structure & Algorithms, Low Level Programming (x86 Assembly),
+  Machine Learning (NumPy, Pandas, Matplotlib), Modern C++ Design Patterns, Operating Systems,
   Object-Oriented Programming.
 - 📊 Additional Tools: Canva, Figma, Microsoft Office - Word, Excel, PowerPoint and Power BI.
 
