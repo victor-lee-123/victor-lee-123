@@ -1,6 +1,6 @@
-# Hi, I'm Victor 👋
+# Hi!👋
 
-I'm a Computer Science graduate with an interest in **Software Engineering and AI Engineering**. I enjoy building practical applications and exploring how AI, automation and software can solve real-world problems.
+I'm a Computer Science undergraduate with an interest in **Software Engineering and AI Engineering**. I enjoy building practical applications and exploring how AI, automation and software can solve real-world problems.
 
 ## 🚀 What I Work With
 
@@ -32,7 +32,9 @@ Jira · Confluence · Power BI · Figma
 
 
 ## 📫 Let's Connect
+
 💼 LinkedIn: Your LinkedIn Profile
+
 📧 Email: veekterlee@gmail.com
 
 <!--
