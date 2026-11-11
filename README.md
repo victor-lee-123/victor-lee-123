@@ -21,7 +21,7 @@ OpenGL · GLSL · ImGui
 
 **Other Tools**
 
-Jira · Confluence · Power BI · Figma
+Jira · Confluence · Bitbucket · Power BI · Figma
 
 ## 📌 Featured Areas
 
