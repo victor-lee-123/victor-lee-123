@@ -33,9 +33,11 @@ Jira · Confluence · Bitbucket · Power BI · Figma
 
 ## 📫 Let's Connect
 
-💼 LinkedIn: Your LinkedIn Profile
+💼 LinkedIn: linkedin.com/in/victor-lee00
 
 📧 Email: veekterlee@gmail.com
+
+## Feel free to request for project executables or videos!
 
 <!--
 **victor-lee-123/victor-lee-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
